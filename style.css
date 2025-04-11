@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+.szoveg{
+    font-size: 21px;
+}
+
+.bold{
+    font-weight: bold;
+    color: bisque;
+}
+
+.emel{
+    font-weight: bold;
+    color: red;
+}
